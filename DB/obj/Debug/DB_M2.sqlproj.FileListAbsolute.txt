@@ -1,0 +1,6 @@
+D:\Uni\S3\Databases\PROJECT-SQL\M2\DB_M2\bin\Debug\DB_M2.dacpac
+D:\Uni\S3\Databases\PROJECT-SQL\M2\DB_M2\bin\Debug\DB_M2.dll
+D:\Uni\S3\Databases\PROJECT-SQL\M2\DB_M2\bin\Debug\DB_M2.pdb
+D:\Uni\S3\Databases\PROJECT-SQL\M2\DB_M2\obj\Debug\DB_M2.sqlproj.AssemblyReference.cache
+D:\Uni\S3\Databases\PROJECT-SQL\M2\DB_M2\obj\Debug\DB_M2.dll
+D:\Uni\S3\Databases\PROJECT-SQL\M2\DB_M2\obj\Debug\DB_M2.pdb
