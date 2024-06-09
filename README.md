@@ -11,6 +11,9 @@ capabilities, bill payments, room activity scheduling, and travel information ma
 leveraging these functionalities, users can streamline their daily routines, stay organized, and enhance
 their overall productivity and efficiency.
 The aim of the project is to implement a virtual assistant website that provides these features to users.
+
 Database implemented using MS Server SQL and Frontend developed using ASP.NET using C#.
 Winter'23 Univeristy project from database 1 course.
+
+
 I was responsible for the database and the "Room" page in the frontend.
