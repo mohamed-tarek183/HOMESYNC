@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOMESYNC 1", "HOMESYNC 1.csproj", "{B70FCDF4-0FE0-4A50-BFD6-5FF7AB0A14F7}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DB_M2", "..\..\M2\DB_M2\DB_M2.sqlproj", "{BA8B5E03-E202-49E2-8D33-9FA093A654A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B70FCDF4-0FE0-4A50-BFD6-5FF7AB0A14F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70FCDF4-0FE0-4A50-BFD6-5FF7AB0A14F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70FCDF4-0FE0-4A50-BFD6-5FF7AB0A14F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70FCDF4-0FE0-4A50-BFD6-5FF7AB0A14F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8B5E03-E202-49E2-8D33-9FA093A654A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8B5E03-E202-49E2-8D33-9FA093A654A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8B5E03-E202-49E2-8D33-9FA093A654A2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BA8B5E03-E202-49E2-8D33-9FA093A654A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8B5E03-E202-49E2-8D33-9FA093A654A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8B5E03-E202-49E2-8D33-9FA093A654A2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92459457-9350-485C-9D75-CD60A317FC48}
+	EndGlobalSection
+EndGlobal
