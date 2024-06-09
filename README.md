@@ -14,7 +14,7 @@ The aim of the project is to implement a virtual assistant website that provides
 
 Database implemented using MS Server SQL and Frontend developed using ASP.NET using C#.
 
-Winter'23 Univeristy project from database 1 course.
+Winter'23 Univeristy project for Database 1 course.
 
 
 I was responsible for the database and the "Room" page in the frontend.
