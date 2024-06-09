@@ -13,6 +13,7 @@ their overall productivity and efficiency.
 The aim of the project is to implement a virtual assistant website that provides these features to users.
 
 Database implemented using MS Server SQL and Frontend developed using ASP.NET using C#.
+
 Winter'23 Univeristy project from database 1 course.
 
 
